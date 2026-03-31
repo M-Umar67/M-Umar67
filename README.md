@@ -15,7 +15,8 @@
 ---
 
 ## 🛠️ Skills (Beginner Level)
-- C / C++ (Basics)  
+- Java (Basics)
+- Html (basics)
 - Python (Basics)  
 - Problem Solving  
 - Git & GitHub (Learning)  
@@ -29,11 +30,6 @@
 
 ---
 
-## 🌐 Connect With Me
-- LinkedIn: (Add your link here)  
-- Email: (Your college email)
-
----
 
 ⭐ “Learning step by step and growing every day.”## Hi there 👋
 
